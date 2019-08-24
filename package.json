@@ -1,0 +1,24 @@
+{
+  "name": "workshop-api-testing-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-UA/workshop-api-testing-js.git"
+  },
+  "keywords": [],
+  "author": "Andrés Urbano - andrewu121@gmail.com - Andres-UA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andres-UA/workshop-api-testing-js/issues"
+  },
+  "homepage": "https://github.com/Andres-UA/workshop-api-testing-js#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
